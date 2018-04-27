@@ -11,4 +11,5 @@ def prime?(number)
       i += 1
     end
     return true
+  end
 end
