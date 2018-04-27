@@ -1,5 +1,5 @@
 # Add  code here!
-def prime(number)
+def prime?(number)
   i = 2
   if number < 2  then
     false
